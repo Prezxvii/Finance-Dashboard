@@ -2,6 +2,4 @@
 
 Build A MERN Finance Dashboard App
 
-Video: https://www.youtube.com/watch?v=uoJ0Tv-BFcQ
-
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+Finance dashboard fullstack (MERN) app with redux-toolkit state management, written in React (Vite) and TypeScript. Frontend written in Vite, Redux-Toolkit, MUI (styles and components) and Recharts library (charts). Backend in Node.js, Express.js and MongoDB for database.
